@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+        background-image:url("https://png.pngitem.com/pimgs/s/96-963767_bible-study-christianity-transparent-background-open-bible-png.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+h1
+
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-display: fallback;
+}
+Table,td,th{
+   
+ border :1px solid black;
+ width: 950px
+}

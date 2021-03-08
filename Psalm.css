@@ -1,0 +1,49 @@
+header,h1
+{   
+    text-align: center;
+    color:saddlebrown;
+    height: 100px;
+    margin-top: 0px;
+    background-color: antiquewhite ;
+    border-bottom: 3px solid black;
+    padding-bottom: 2px;
+    box-sizing: border-box;
+}
+h2,h4
+{
+    text-align: center;
+    
+    font-display: fallback
+}
+body
+{
+   background-color: antiquewhite;
+    background-image: url("https://media.istockphoto.com/photos/image-of-open-antique-book-on-wooden-table-with-glitter-background-picture-id868054620?k=6&m=868054620&s=612x612&w=0&h=ncowHFG9gcrx56qF18aTb-nCEttafdo2PRGSmbKSLog=");
+   background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+       background-size: cover;
+    color:floralwhite;
+        background-blend-mode:multiply;
+    font-size: 26;
+    
+}
+
+.Psalm {
+    background-color: antiquewhite;
+    padding: 20px 20px;
+    border: 3px solid black;
+    background-blend-mode: exclusion;
+    left: 520px;
+    position: relative;
+    top: 30px;
+    height: 650px;
+    opacity: 0.995;
+    overflow: scroll;
+    
+    width: 800;
+}
+#Pbdy{
+     text-align: center;
+    color: brown;
+    font-family: sans-serif ;
+}
